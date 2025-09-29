@@ -1,0 +1,38 @@
+# --- Unity core
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# --- OS / IDE junk
+.DS_Store
+Thumbs.db
+.vs/
+.vscode/
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.pidb
+*.booproj
+*.svd
+
+# --- Crash / profiler
+*.stackdump
+*.dmp
+
+# --- Unity generated
+*.apk
+*.aab
+*.unitypackage
+
+# --- Addressables / Cache (optional)
+[Aa]rtifacts/
+[Aa]sset[Bb]undles/
+*.bundle
